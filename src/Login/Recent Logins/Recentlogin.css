@@ -1,0 +1,82 @@
+body{
+    background-image: url("bg.jpg");
+}
+/*Giving style to recenti*/
+.Recent{
+    display: flex;
+    flex-direction: column;
+    margin-top: 9.5em;
+    margin-left: 8em;
+    position: absolute;    
+}
+/*giving style to flbox*/
+.Flbox{
+    display: flex;
+    flex-direction: row;
+}
+/*Div Image css part*/
+.image1{
+    
+    width: 160px;
+    margin-left:0em;
+    transition:box-shadow .3s;
+    border-radius: 8px;    
+}
+/*Giving access to the text*/
+    .text{
+        border-bottom-left-radius: 8px;
+            border-bottom-right-radius: 8px;
+            padding: 12px;
+            width: 10em;
+            text-align: center;
+            text-decoration: none;
+             background-color:white;
+            white-space: nowrap;
+        }
+
+/*Accessing image sHerlock1.jpg from Image and giving img classname*/
+
+.simg{
+     height: 10em;
+     width: 10em;
+     border-top-right-radius: 8px;
+   border-top-left-radius:8px;
+        }
+ 
+/*Adding the hover in image1*/
+
+.image1:hover{
+    box-shadow: 0 0 11px black; 
+}
+/*Accessing to imgage2*/
+.image2{
+    
+    width: 160px;
+    margin-left:2em;
+    transition:box-shadow .3s;
+    border-radius: 8px;    
+}
+/*Accessing image sHerlock1.jpg from Image and giving dsimg classname*/
+.dsimg{
+    height:160px;
+    width:160px;
+    border-top-right-radius: 8px;
+  border-top-left-radius:8px; 
+}
+/*Adding the hover in dsimg*/
+
+.dsimg:hover{
+    box-shadow: 0 0 11px black; 
+}
+/*Giving access to the text1*/
+.text1{
+    border-bottom-left-radius: 8px;
+        border-bottom-right-radius: 8px;
+        padding: 12px;
+        width: 10em;
+        text-align: center;
+        text-decoration: none;
+         background-color:white;
+        white-space: nowrap;
+    }
+                       

@@ -1,0 +1,28 @@
+@media only screen and (max-width:900px){
+    .loginform{
+        display: block;
+       margin-left: auto;
+      margin-right: auto;
+      width: 59%;
+
+    }
+}
+  
+  
+
+
+@media only screen and (max-width:480px ) {
+    .loginform{
+        display: block;
+       margin-left: auto;
+      margin-right: auto;
+      width: 90%;
+    }   
+  .embody,.empass,.btn{
+      width: 15em;
+    }
+    .btnI{
+        width:12em;
+    }
+    
+}
