@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/The-Silver-Screen-/static/css/main.3ccf6818.chunk.css",
+    "main.css": "/The-Silver-Screen-/static/css/main.54238b22.chunk.css",
     "main.js": "/The-Silver-Screen-/static/js/main.3825b97f.chunk.js",
     "main.js.map": "/The-Silver-Screen-/static/js/main.3825b97f.chunk.js.map",
     "runtime-main.js": "/The-Silver-Screen-/static/js/runtime-main.1edff145.js",
@@ -10,14 +10,14 @@
     "static/js/2.2f91eabd.chunk.js.map": "/The-Silver-Screen-/static/js/2.2f91eabd.chunk.js.map",
     "index.html": "/The-Silver-Screen-/index.html",
     "static/css/2.4be38407.chunk.css.map": "/The-Silver-Screen-/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.3ccf6818.chunk.css.map": "/The-Silver-Screen-/static/css/main.3ccf6818.chunk.css.map",
+    "static/css/main.54238b22.chunk.css.map": "/The-Silver-Screen-/static/css/main.54238b22.chunk.css.map",
     "static/js/2.2f91eabd.chunk.js.LICENSE.txt": "/The-Silver-Screen-/static/js/2.2f91eabd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1edff145.js",
     "static/css/2.4be38407.chunk.css",
     "static/js/2.2f91eabd.chunk.js",
-    "static/css/main.3ccf6818.chunk.css",
+    "static/css/main.54238b22.chunk.css",
     "static/js/main.3825b97f.chunk.js"
   ]
 }
